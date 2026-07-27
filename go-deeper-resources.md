@@ -2,10 +2,7 @@
 
 From "Redefining Quality for Enterprise AI Systems: What Does 'Passing' Mean?" — CAST 2026
 
-##Links to Read
-From "Redefining Quality for Enterprise AI Systems: What Does 'Passing' Mean?" — CAST 2026
-
-Start Here
+## Start Here
 
 LangSmith Evaluation Quickstart
 A beginner-friendly walkthrough of datasets, target functions, evaluators, and result analysis. Great first hands-on exercise.
